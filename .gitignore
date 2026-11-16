@@ -1,0 +1,35 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Large video datasets & clips
+raw_videos/
+openvid/
+clips/
+clips_test/
+
+# Model weights & checkpoints
+Wan2.1/
+Wan2.1-T2V-1.3B/
+
+# Extracted latents & heavy processed data
+latents/
+latents_gate/
+latents_test/
+gate1_data/
+
+# Experiment runs, logs & outputs
+runs/
+gate1_runs/
+gate1_eval/
+report/
+report_13b/
+report_14b/
+
+# Python cache & backup files
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+

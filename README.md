@@ -70,3 +70,4 @@ GO at a given C when, for the best coded arm:
 The measured streaming KV cache shrinks exactly C-fold (28.3 MB → 7.1 MB → 3.5 MB at C = 1, 4, 8).
 Absolute SNRs are low because the synthetic textures are noise-like and the models tiny. The real
 answer needs Wan latents, a GPU and longer training.
+# snapshot_gate

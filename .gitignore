@@ -17,10 +17,10 @@ Wan2.1-T2V-1.3B/
 latents/
 latents_gate/
 latents_test/
-gate1_data/
 
 # Experiment runs, logs & outputs
 runs/
+gate1_data/
 gate1_runs/
 gate1_eval/
 report/
@@ -33,3 +33,4 @@ __pycache__/
 *$py.class
 *.bak
 
+# Gate 0 big directories
